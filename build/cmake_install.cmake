@@ -126,6 +126,7 @@ IF(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
   INCLUDE("/home/christian/ros/build/gtest/cmake_install.cmake")
   INCLUDE("/home/christian/ros/build/agitr/cmake_install.cmake")
+  INCLUDE("/home/christian/ros/build/tmill_ximea/cmake_install.cmake")
 
 ENDIF(NOT CMAKE_INSTALL_LOCAL_ONLY)
 

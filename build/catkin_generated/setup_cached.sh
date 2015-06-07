@@ -17,4 +17,4 @@ export PKG_CONFIG_PATH="/home/christian/ros/devel/lib/pkgconfig:/home/christian/
 export PWD="/home/christian/ros/build"
 export PYTHONPATH="/home/christian/ros/devel/lib/python2.7/dist-packages:/opt/ros/indigo/lib/python2.7/dist-packages:/home/christian/dynamism/src/dy-python"
 export ROSLISP_PACKAGE_DIRECTORIES="/home/christian/ros/devel/share/common-lisp"
-export ROS_PACKAGE_PATH="/home/christian/ros/src:$ROS_PACKAGE_PATH"
+export ROS_PACKAGE_PATH="/home/christian/ros/src:/opt/ros/indigo/share:/opt/ros/indigo/stacks"

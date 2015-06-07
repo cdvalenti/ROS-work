@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "tmill_ximea")
+set(tmill_ximea_MAINTAINER "Christian D. Valenti <christiandvalenti@gmail.com>")
+set(tmill_ximea_DEPRECATED "")
+set(tmill_ximea_VERSION "0.0.0")
+set(tmill_ximea_BUILD_DEPENDS "roscpp")
+set(tmill_ximea_RUN_DEPENDS "roscpp")
+set(tmill_ximea_BUILDTOOL_DEPENDS "catkin")

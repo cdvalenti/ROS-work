@@ -1,0 +1,8 @@
+prefix=/home/christian/ros/devel
+
+Name: tmill_ximea
+Description: Description of tmill_ximea
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/christian/ros/devel/lib 
+Requires: 

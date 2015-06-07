@@ -396,6 +396,19 @@ std_msgs_generate_messages_py/fast:
 	$(MAKE) -f agitr/CMakeFiles/std_msgs_generate_messages_py.dir/build.make agitr/CMakeFiles/std_msgs_generate_messages_py.dir/build
 .PHONY : std_msgs_generate_messages_py/fast
 
+#=============================================================================
+# Target rules for targets named tmill_ximea_hello_node
+
+# Build rule for target.
+tmill_ximea_hello_node: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 tmill_ximea_hello_node
+.PHONY : tmill_ximea_hello_node
+
+# fast build rule for target.
+tmill_ximea_hello_node/fast:
+	$(MAKE) -f tmill_ximea/CMakeFiles/tmill_ximea_hello_node.dir/build.make tmill_ximea/CMakeFiles/tmill_ximea_hello_node.dir/build
+.PHONY : tmill_ximea_hello_node/fast
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -428,6 +441,7 @@ help:
 	@echo "... std_msgs_generate_messages_cpp"
 	@echo "... std_msgs_generate_messages_lisp"
 	@echo "... std_msgs_generate_messages_py"
+	@echo "... tmill_ximea_hello_node"
 .PHONY : help
 
 

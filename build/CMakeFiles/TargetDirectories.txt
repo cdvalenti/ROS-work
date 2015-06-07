@@ -17,3 +17,4 @@
 /home/christian/ros/build/agitr/CMakeFiles/std_msgs_generate_messages_lisp.dir
 /home/christian/ros/build/agitr/CMakeFiles/std_msgs_generate_messages_py.dir
 /home/christian/ros/build/CMakeFiles/tests.dir
+/home/christian/ros/build/tmill_ximea/CMakeFiles/tmill_ximea_hello_node.dir

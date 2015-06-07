@@ -1,2 +1,2 @@
-agitr
+agitr:tmill_ximea
 -DCATKIN_DEVEL_PREFIX=/home/christian/ros/devel -DCMAKE_INSTALL_PREFIX=/home/christian/ros/install -G Unix Makefiles
